@@ -1,0 +1,15 @@
+.text-green {
+  color: green;
+}
+.text-red {
+  color: red;
+}
+.hidden {
+  display: none;
+}
+
+body {
+  min-height: 100svh;
+  display: grid;
+  place-content: center;
+}
